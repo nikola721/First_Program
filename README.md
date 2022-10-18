@@ -1,2 +1,1 @@
-# First_Program
-class prgram
+Пробна програма която ще изведе Hello World
